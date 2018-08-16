@@ -3,8 +3,6 @@
 import pygame
 import math
 import random
-from enum import Enum
-#from pygame.locals import *
 
 
 
